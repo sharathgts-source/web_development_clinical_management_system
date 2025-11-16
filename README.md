@@ -67,9 +67,7 @@ Replace your_firebase_api_key, your_firebase_auth_domain, your_firebase_project_
 
 ## Roles Management
 
-### Super Admin 
-Email:redoxop45@gmail.com
-Pass:A@@a1234
+
 
 ## Getting Started
 
